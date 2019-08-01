@@ -1,0 +1,11 @@
+.card {
+  width: 200px;
+  height: 150px;
+  margin: 15px 15px;
+  box-shadow: 0 3px 6px red, 0 3px 6px rebeccapurple;
+  border: 3px solid navy;
+}
+img {
+  height: 5%;
+  width: 75%;
+}
