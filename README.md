@@ -1,8 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## URL
 
-## Available Scripts
-
-In the project directory, you can run:
+https://richwalker124.github.io/clickerGame/
 
 ### `npm start`
 
